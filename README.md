@@ -67,7 +67,6 @@ I'm learning to become a Machine Learning Engineer — mostly through Python, Ka
 | 😀 Sentiment Analysis | Sentiment scoring on customer reviews | Python, NLP |
 | 🖼 Image Classification | CNN-based image classifier | TensorFlow / PyTorch |
 
-> ⚠️ **Todo:** link each project name to its actual repo, e.g. `[House Price Prediction](https://github.com/Fahadqureshi0/repo-name)`. Unlinked project names look unfinished to visitors — this is the single highest-impact fix for this README.
 
 ---
 
