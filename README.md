@@ -56,20 +56,15 @@ I'm learning to become a Machine Learning Engineer — mostly through Python, Ka
 
 ---
 
-### 📂 Projects
+## 📊 Projects
 
-| Project | What it does | Stack |
+| Project | Description | Demo/Notebook |
 |---|---|---|
-| 🏠 House Price Prediction | Supervised regression on housing data | Python, Pandas, Scikit-Learn |
-| 📧 Spam Email Detection | NLP-based spam/ham email classifier | Python, Scikit-Learn |
-| ❤️ Heart Disease Prediction | Binary classifier for heart disease risk | Logistic Regression, Random Forest |
-| 💳 Credit Card Fraud Detection | Fraud detection on an imbalanced dataset | Python, Scikit-Learn |
-| 😀 Sentiment Analysis | Sentiment scoring on customer reviews | Python, NLP |
-| 🖼 Image Classification | CNN-based image classifier | TensorFlow / PyTorch |
-
-
----
-
+| 🏥 [Multiple Disease Prediction System](https://github.com/Fahadqureshi0/Multiple-Disease-Prediction-System) | Web application predicting diabetes, heart disease, and Parkinson's disease using pre-trained ML models with interactive Streamlit interface | [Live Demo](https://multiple-disease-prediction-system-czc8m4xzgnqgxczmgi6nqe.streamlit.app/) |
+| 👤 [Customer Churn Prediction (Streamlit)](https://github.com/Fahadqureshi0/Customer-Churn-Prediction_Streamlit) | Real-time prediction system identifying customers likely to churn, deployed on Streamlit Cloud | [Live Demo](https://customer-churn-predictionapp-bwistbukgzygynpdcvxdsc.streamlit.app/) |
+| 🚢 [Titanic Survival Prediction](https://github.com/Fahadqureshi0/Titanic-Survival-) | Binary classification model predicting passenger survival using logistic regression with feature engineering | [Live Demo](https://titanic-survival-preditction-systemtitanic-surviva-3xwv0d.streamlit.app/) |
+| 💳 [Credit Card Fraud Detection](https://github.com/Fahadqureshi0/Credit-Fraud-Detection) | Comprehensive analysis and detection of fraudulent transactions in imbalanced financial datasets | [Notebook](https://github.com/Fahadqureshi0/Credit-Fraud-Detection/blob/main/Credit_Card_Fraud_Detection.ipynb) |
+| 👤 [Customer Churn Prediction (Notebook)](https://github.com/Fahadqureshi0/Customer-Churn-Prediction) | Detailed exploratory data analysis and modeling of telecom customer churn with comparative model evaluation | [Notebook](https://github.com/Fahadqureshi0/Customer-Churn-Prediction/blob/main/Customer_Churn_Prediction.ipynb) |
 ### 📚 What I'm building toward
 
 ```
