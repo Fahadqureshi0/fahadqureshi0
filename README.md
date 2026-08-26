@@ -1,6 +1,6 @@
 # Fahad Qureshi
 
-Machine Learning Engineer | Python Developer | AI Engineer
+Machine Learning Engineer | Python Developer | Data Science Enthusiast
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fahad-qureshi-aa8a8727b/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Fahadqureshi0)
@@ -18,21 +18,29 @@ Aspiring Machine Learning Engineer with hands-on experience building production-
 ## Technical Skills
 
 **Languages & Core**
-- Python, SQL, Git
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 **Machine Learning & Data Science**
-- Scikit-Learn, TensorFlow, PyTorch
-- NumPy, Pandas, Matplotlib, Seaborn
-- Feature Engineering, Model Optimization
+
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![Scikit--Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=plotly&logoColor=white)
 
 **Deep Learning**
-- Neural Networks, CNNs, RNNs, Transformers
-- NLP & Intent Classification
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 
 **Tools & Platforms**
-- Jupyter Notebook, VS Code
-- Streamlit, MySQL
-- GitHub
+
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
 ---
 
@@ -68,9 +76,8 @@ Core ML → Advanced Algorithms → Deep Learning → MLOps → Production Syste
 
 **Certifications in Progress**
 - ✓ Kaggle - Intro to Machine Learning
-- ⧗ Kaggle - Intermediate Machine Learning
-- ⧗ Kaggle - Feature Engineering
-- ⧗ Kaggle - Deep Learning
+- ✓ Kaggle - Intermediate Machine Learning
+- ✓ Kaggle - Deep Learning
 
 ---
 
