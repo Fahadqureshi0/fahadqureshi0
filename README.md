@@ -80,46 +80,17 @@ Neural Networks → CNNs → RNNs → Transformers → LLMs → MLOps (Docker, F
 
 ---
 
-### 📊 GitHub Statistics & Impact
+### GitHub Statistics
 
 <div align="center">
 
-<table>
-<tr>
-<td width="50%">
+<img src="https://github-readme-stats.vercel.app/api?username=Fahadqureshi0&show_icons=true&theme=github_light&hide_border=true&hide=stars&count_private=true" width="50%" alt="GitHub Stats"/>
 
-**Contribution Insights**
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fahadqureshi0&layout=compact&theme=github_light&hide_border=true&langs_count=6" width="50%" alt="Top Languages"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Fahadqureshi0&theme=highcontrast&hide_border=true&background=transparent&ring=00D9FF&fire=FF006E&currStreakNum=00D9FF" alt="GitHub Streak"/>
-
-</td>
-<td width="50%">
-
-**Performance Metrics**
-
-<img src="https://github-readme-stats.vercel.app/api?username=Fahadqureshi0&show_icons=true&theme=highcontrast&hide_border=true&bg_color=transparent&text_color=FFFFFF&title_color=00D9FF&icon_color=00D9FF&hide=stars&count_private=true" alt="GitHub Stats"/>
-
-</td>
-</tr>
-</table>
-
-**Tech Stack & Language Proficiency**
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fahadqureshi0&layout=compact&theme=highcontrast&hide_border=true&bg_color=transparent&text_color=FFFFFF&title_color=00D9FF&langs_count=8" alt="Top Languages"/>
-
-**Contribution Timeline**
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Fahadqureshi0&theme=high-contrast&hide_border=true&area=true&bg_color=transparent&color=00D9FF&line=FF006E&point=00D9FF&radius=16" width="100%" alt="Contribution Graph"/>
-
-**Profile Strength**
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Fahadqureshi0&theme=highcontrast" width="49%" alt="Repos per Language"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Fahadqureshi0&theme=highcontrast" width="49%" alt="Profile Stats"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Fahadqureshi0&theme=github-light&hide_border=true" width="100%" alt="Contribution Graph"/>
 
 </div>
-
-> 💡 **For Recruiters:** Explore my [GitHub profile](https://github.com/Fahadqureshi0) to see real projects, contributions, and problem-solving approaches. Open to discussing code quality, architectural decisions, and ML/AI implementations.
 
 ---
 
