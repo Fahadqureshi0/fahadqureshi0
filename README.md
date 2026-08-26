@@ -58,13 +58,11 @@ I'm learning to become a Machine Learning Engineer — mostly through Python, Ka
 
 ## 📊 Projects
 
-| Project | Description | Demo/Notebook |
+| Project | Description | Live Demo |
 |---|---|---|
-| 🏥 [Multiple Disease Prediction System](https://github.com/Fahadqureshi0/Multiple-Disease-Prediction-System) | Web application predicting diabetes, heart disease, and Parkinson's disease using pre-trained ML models with interactive Streamlit interface | [Live Demo](https://multiple-disease-prediction-system-czc8m4xzgnqgxczmgi6nqe.streamlit.app/) |
-| 👤 [Customer Churn Prediction (Streamlit)](https://github.com/Fahadqureshi0/Customer-Churn-Prediction_Streamlit) | Real-time prediction system identifying customers likely to churn, deployed on Streamlit Cloud | [Live Demo](https://customer-churn-predictionapp-bwistbukgzygynpdcvxdsc.streamlit.app/) |
-| 🚢 [Titanic Survival Prediction](https://github.com/Fahadqureshi0/Titanic-Survival-) | Binary classification model predicting passenger survival using logistic regression with feature engineering | [Live Demo](https://titanic-survival-preditction-systemtitanic-surviva-3xwv0d.streamlit.app/) |
-| 💳 [Credit Card Fraud Detection](https://github.com/Fahadqureshi0/Credit-Fraud-Detection) | Comprehensive analysis and detection of fraudulent transactions in imbalanced financial datasets | [Notebook](https://github.com/Fahadqureshi0/Credit-Fraud-Detection/blob/main/Credit_Card_Fraud_Detection.ipynb) |
-| 👤 [Customer Churn Prediction (Notebook)](https://github.com/Fahadqureshi0/Customer-Churn-Prediction) | Detailed exploratory data analysis and modeling of telecom customer churn with comparative model evaluation | [Notebook](https://github.com/Fahadqureshi0/Customer-Churn-Prediction/blob/main/Customer_Churn_Prediction.ipynb) |
+| 💼 [Job Recommendation System](https://github.com/Fahadqureshi0/Job-Recommendation-System) | Intelligent job matching engine that recommends positions based on user skills, experience, and preferences using ML algorithms | [🚀 Live Demo](https://job-recommendation-system-p6arxjfvnvzxuhca2eues7.streamlit.app/) |
+| 🤖 [AI Customer Support Intent Classifier](https://github.com/Fahadqureshi0/AI-Customer-Support-Intent-Classifier) | Advanced NLP system that classifies customer support queries and routes them intelligently using deep learning | [🚀 Live Demo](https://ai-customer-support-intent-classifier-etcm8es7qjalwytm7yx494.streamlit.app/) |
+
 ### 📚 What I'm building toward
 
 ```
