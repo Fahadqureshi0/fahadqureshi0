@@ -84,9 +84,13 @@ Neural Networks → CNNs → RNNs → Transformers → LLMs → MLOps (Docker, F
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Fahadqureshi0&theme=dracula&hide_border=true" width="70%" alt="GitHub Streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Fahadqureshi0&theme=react&hide_border=false&background=0D1117&ring=58A6FF&fire=FF7B54&currStreakNum=58A6FF" width="48%" alt="GitHub Streak"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Fahadqureshi0&theme=dracula&hide_border=true" width="97%" alt="Activity Graph"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Fahadqureshi0&show_icons=true&theme=react&hide_border=false&bg_color=0D1117&text_color=FFFFFF&title_color=58A6FF&icon_color=58A6FF" width="48%" alt="GitHub Stats"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Fahadqureshi0&theme=react-dark&hide_border=false&area=true&bg_color=0D1117&color=58A6FF" width="100%" alt="Contribution Activity Graph"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Fahadqureshi0&theme=react_dark" width="100%" alt="Profile Summary"/>
 
 </div>
 
