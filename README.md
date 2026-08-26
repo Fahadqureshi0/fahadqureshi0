@@ -1,6 +1,6 @@
 # Fahad Qureshi
 
-Machine Learning Engineer | Python Developer | Data Science Enthusiast
+Machine Learning Engineer | Python Developer | AI Engineer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fahad-qureshi-aa8a8727b/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Fahadqureshi0)
@@ -11,7 +11,7 @@ Machine Learning Engineer | Python Developer | Data Science Enthusiast
 
 ## About
 
-Aspiring Machine Learning Engineer with hands-on experience building production-ready applications. Focused on developing practical ML solutions in Computer Vision, Natural Language Processing, and predictive analytics. Committed to writing clean, efficient code and delivering measurable business value.
+Machine Learning Engineer with hands-on experience building production-ready applications. Focused on developing practical ML solutions in Computer Vision, Natural Language Processing, and predictive analytics. Committed to writing clean, efficient code and delivering measurable business value.
 
 ---
 
