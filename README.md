@@ -80,19 +80,46 @@ Neural Networks → CNNs → RNNs → Transformers → LLMs → MLOps (Docker, F
 
 ---
 
-### 📊 GitHub Activity
+### 📊 GitHub Statistics & Impact
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Fahadqureshi0&theme=react&hide_border=false&background=0D1117&ring=58A6FF&fire=FF7B54&currStreakNum=58A6FF" width="48%" alt="GitHub Streak"/>
+<table>
+<tr>
+<td width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Fahadqureshi0&show_icons=true&theme=react&hide_border=false&bg_color=0D1117&text_color=FFFFFF&title_color=58A6FF&icon_color=58A6FF" width="48%" alt="GitHub Stats"/>
+**Contribution Insights**
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Fahadqureshi0&theme=react-dark&hide_border=false&area=true&bg_color=0D1117&color=58A6FF" width="100%" alt="Contribution Activity Graph"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Fahadqureshi0&theme=highcontrast&hide_border=true&background=transparent&ring=00D9FF&fire=FF006E&currStreakNum=00D9FF" alt="GitHub Streak"/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Fahadqureshi0&theme=react_dark" width="100%" alt="Profile Summary"/>
+</td>
+<td width="50%">
+
+**Performance Metrics**
+
+<img src="https://github-readme-stats.vercel.app/api?username=Fahadqureshi0&show_icons=true&theme=highcontrast&hide_border=true&bg_color=transparent&text_color=FFFFFF&title_color=00D9FF&icon_color=00D9FF&hide=stars&count_private=true" alt="GitHub Stats"/>
+
+</td>
+</tr>
+</table>
+
+**Tech Stack & Language Proficiency**
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fahadqureshi0&layout=compact&theme=highcontrast&hide_border=true&bg_color=transparent&text_color=FFFFFF&title_color=00D9FF&langs_count=8" alt="Top Languages"/>
+
+**Contribution Timeline**
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Fahadqureshi0&theme=high-contrast&hide_border=true&area=true&bg_color=transparent&color=00D9FF&line=FF006E&point=00D9FF&radius=16" width="100%" alt="Contribution Graph"/>
+
+**Profile Strength**
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Fahadqureshi0&theme=highcontrast" width="49%" alt="Repos per Language"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Fahadqureshi0&theme=highcontrast" width="49%" alt="Profile Stats"/>
 
 </div>
+
+> 💡 **For Recruiters:** Explore my [GitHub profile](https://github.com/Fahadqureshi0) to see real projects, contributions, and problem-solving approaches. Open to discussing code quality, architectural decisions, and ML/AI implementations.
 
 ---
 
