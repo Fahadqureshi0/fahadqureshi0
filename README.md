@@ -1,107 +1,206 @@
 <div align="center">
 
-# Hey, I'm Fahad Qureshi 👋
+👋 Hey, I'm Fahad Qureshi
 
-### Machine Learning Engineer in the making — building models, breaking bugs, learning fast
+Machine Learning Engineer in the making — building models, solving problems, and learning by building.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fahad-qureshi-aa8a8727b/)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:fahadqureshi.dev@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Fahadqureshi0)
+<p>
+  <a href="https://www.linkedin.com/in/fahad-qureshi-aa8a8727b/">LinkedIn</a> •
+  <a href="mailto:fahadqureshi.dev@gmail.com">Email</a> •
+  <a href="https://github.com/Fahadqureshi0">GitHub</a> •
+  <a href="https://www.kaggle.com/fahadqureshi0">Kaggle</a>
+</p>
 
-<br/>
+<p>
+  <img src="https://img.shields.io/github/followers/Fahadqureshi0?label=Followers&style=flat-square&logo=github&color=0d1117&labelColor=0d1117" alt="GitHub followers">
+  <img src="https://img.shields.io/github/stars/Fahadqureshi0?label=Stars&style=flat-square&logo=github&color=0d1117&labelColor=0d1117" alt="GitHub stars">
+</p>
 
-[![GitHub followers](https://img.shields.io/github/followers/Fahadqureshi0?label=Followers&style=flat-square&logo=github&color=0d1117&labelColor=0d1117)](https://github.com/Fahadqureshi0?tab=followers)
-[![GitHub stars](https://img.shields.io/github/stars/Fahadqureshi0?label=Stars&style=flat-square&logo=github&color=0d1117&labelColor=0d1117)](https://github.com/Fahadqureshi0?tab=repositories)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0d1117?style=flat-square&logo=linkedin&logoColor=0A66C2&labelColor=0d1117)](https://www.linkedin.com/in/fahad-qureshi-aa8a8727b/)
-[![Kaggle](https://img.shields.io/badge/Kaggle-Profile-0d1117?style=flat-square&logo=kaggle&logoColor=20BEFF&labelColor=0d1117)](https://www.kaggle.com/fahadqureshi0)
-
-</div>
-
----
-
-### 🧭 A bit about me
-
-I'm learning to become a Machine Learning Engineer — mostly through Python, Kaggle notebooks, and a lot of trial and error. Still early in the journey, but building real (small) projects instead of just watching tutorials. Most interested in **Computer Vision, NLP, and LLMs**.
-
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=480&lines=%F0%9F%A4%96+Training+models...;Debugging+at+3am+again;print(%22it+works+on+my+machine%22)" alt="Typing SVG"/>
-</div>
-
----
-
-### 🛠 Tools I reach for
-
-<div align="center">
-
-**Languages**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-**ML / Data**
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
-
-**Deep Learning**
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-
-**Data & Tools**
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=520&lines=%F0%9F%A4%96+Training+models...;Building+real-world+ML+projects;Learning+by+building+and+debugging" alt="Typing SVG">
 
 </div>
 
----
+🧭 About Me
 
-## 📊 Projects
+I'm working toward becoming a Machine Learning Engineer, with a practical, project-based approach to learning.
 
-| Project | Description | Live Demo |
-|---|---|---|
-| 💼 [Job Recommendation System](https://github.com/Fahadqureshi0/Job-Recommendation-System) | Intelligent job matching engine that recommends positions based on user skills, experience, and preferences using ML algorithms | [🚀 Live Demo](https://job-recommendation-system-p6arxjfvnvzxuhca2eues7.streamlit.app/) |
-| 🤖 [AI Customer Support Intent Classifier](https://github.com/Fahadqureshi0/AI-Customer-Support-Intent-Classifier) | Advanced NLP system that classifies customer support queries and routes them intelligently using deep learning | [🚀 Live Demo](https://ai-customer-support-intent-classifier-etcm8es7qjalwytm7yx494.streamlit.app/) |
-| 🏥 [Multiple Disease Prediction System](https://github.com/Fahadqureshi0/Multiple-Disease-Prediction-System) | Web application predicting diabetes, heart disease, and Parkinson's disease using pre-trained ML models with interactive Streamlit interface | [🚀 Live Demo](https://multiple-disease-prediction-system-czc8m4xzgnqgxczmgi6nqe.streamlit.app/) |
-| 🚢 [Titanic Survival Prediction](https://github.com/Fahadqureshi0/Titanic-Survival-) | Binary classification model predicting passenger survival using logistic regression with feature engineering | [🚀 Live Demo](https://titanic-survival-preditction-systemtitanic-surviva-3xwv0d.streamlit.app/) |
-| 💳 [Credit Card Fraud Detection](https://github.com/Fahadqureshi0/Credit-Fraud-Detection) | Comprehensive analysis and detection of fraudulent transactions in imbalanced financial datasets | [📓 Notebook](https://github.com/Fahadqureshi0/Credit-Fraud-Detection/blob/main/Credit_Card_Fraud_Detection.ipynb) |
+I enjoy turning datasets and ideas into working machine-learning applications — from experimentation and model training to interactive deployment.
 
-### 📚 What I'm building toward
+Areas of Interest
 
-```
-Neural Networks → CNNs → RNNs → Transformers → LLMs → MLOps (Docker, FastAPI)
-```
+🤖 Machine Learning
 
-**Certifications (Kaggle):**
-- ✅ Intro to Machine Learning
-- ⏳ Intermediate Machine Learning
-- ⏳ Feature Engineering
-- ⏳ Deep Learning
+👁️ Computer Vision
 
----
+💬 Natural Language Processing (NLP)
 
-### GitHub Statistics
+🧠 Deep Learning
+
+✨ Large Language Models (LLMs)
+
+🚀 Machine Learning Deployment & MLOps
+
+I believe the fastest way to improve is to build, test, break, debug, and build again.
+
+🛠️ Tech Stack
+
+Languages
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+</p>
+
+Machine Learning & Data
+
+<p>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn">
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib">
+</p>
+
+Deep Learning
+
+<p>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch">
+</p>
+
+Tools & Platforms
+
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code">
+</p>
+
+📊 Featured Projects
+
+Project
+
+Description
+
+Demo / Resources
+
+💼 Job Recommendation System
+
+Intelligent job-matching application that recommends positions based on user skills, experience, and preferences using machine-learning techniques.
+
+🚀 Live Demo
+
+🤖 AI Customer Support Intent Classifier
+
+NLP-based customer-support system using an LSTM model to classify customer intent and provide appropriate professional responses.
+
+🚀 Live Demo
+
+🏥 Multiple Disease Prediction System
+
+Interactive Streamlit application using pre-trained machine-learning models for diabetes, heart disease, and Parkinson's disease prediction.
+
+🚀 Live Demo
+
+🚢 Titanic Survival Prediction
+
+Binary classification project predicting passenger survival using logistic regression and feature engineering.
+
+🚀 Live Demo
+
+💳 Credit Card Fraud Detection
+
+Analysis and machine-learning workflow for detecting fraudulent transactions in an imbalanced financial dataset.
+
+📓 Notebook
+
+🧠 Learning Roadmap
+
+My current learning path is focused on progressing from core machine learning toward production-oriented AI systems:
+
+Machine Learning
+       ↓
+Neural Networks
+       ↓
+CNNs
+       ↓
+RNNs / LSTMs
+       ↓
+Transformers
+       ↓
+LLMs
+       ↓
+MLOps
+(Docker • FastAPI • Deployment)
+
+📚 Certifications & Learning
+
+Kaggle
+
+✅ Intro to Machine Learning
+
+⏳ Intermediate Machine Learning
+
+⏳ Feature Engineering
+
+⏳ Deep Learning
+
+📈 GitHub Activity
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Fahadqureshi0&show_icons=true&theme=github_light&hide_border=true&hide=stars&count_private=true" width="50%" alt="GitHub Stats"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fahadqureshi0&layout=compact&theme=github_light&hide_border=true&langs_count=6" width="50%" alt="Top Languages"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Fahadqureshi0&theme=github-light&hide_border=true" width="100%" alt="Contribution Graph"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Fahadqureshi0&show_icons=true&theme=github_light&hide_border=true&hide=stars&count_private=true" width="49%" alt="GitHub Stats">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fahadqureshi0&layout=compact&theme=github_light&hide_border=true&langs_count=6" width="49%" alt="Top Languages">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Fahadqureshi0&theme=github-light&hide_border=true" width="100%" alt="GitHub Contribution Graph">
 
 </div>
 
----
+🎯 What I'm Working Toward
+
+My goal is to grow from building individual machine-learning projects into developing reliable, deployable, production-oriented AI systems.
+
+I'm particularly interested in:
+
+🧠 Advanced deep learning
+
+💬 NLP and LLM applications
+
+👁️ Computer vision
+
+🔧 Model optimization
+
+🌐 API development for ML models
+
+🐳 Docker and containerization
+
+🚀 ML deployment and MLOps
+
+🤝 Let's Connect
+
+I'm open to:
+
+💡 Feedback on my projects
+
+🤝 Collaboration on ML/AI projects
+
+📚 Learning opportunities
+
+💼 Junior / entry-level Machine Learning opportunities
+
+🌐 Connecting with other developers and ML enthusiasts
 
 <div align="center">
 
-### 🤝 Get in touch
+<a href="https://www.linkedin.com/in/fahad-qureshi-aa8a8727b/">LinkedIn</a> •
+<a href="mailto:fahadqureshi.dev@gmail.com">Email</a> •
+<a href="https://github.com/Fahadqureshi0">GitHub</a> •
+<a href="https://www.kaggle.com/fahadqureshi0">Kaggle</a>
 
-Open to feedback on my projects, or hearing about junior/entry-level ML opportunities.
+</div>
 
-**[LinkedIn](https://www.linkedin.com/in/fahad-qureshi-aa8a8727b/) · [Email](mailto:fahadqureshi.dev@gmail.com) · [GitHub](https://github.com/Fahadqureshi0)**
+<div align="center">
 
-⭐ *Thanks for stopping by.*
+⭐ Thanks for stopping by!
+
+<sub>Building • Learning • Experimenting • Improving</sub>
 
 </div>
