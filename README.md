@@ -1,6 +1,6 @@
 # Fahad Qureshi
 
-Machine Learning Engineer | Python Developer | AI Engineer
+**Machine Learning Engineer | Python Developer | AI Engineer**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fahad-qureshi-aa8a8727b/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Fahadqureshi0)
@@ -42,29 +42,35 @@ Machine Learning Engineer with hands-on experience building production-ready app
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
+### Skill Proficiency
+
+<div align="center">
+
+![Skill Proficiency](https://quickchart.io/chart?c=%7B%22type%22%3A%20%22horizontalBar%22%2C%20%22data%22%3A%20%7B%22labels%22%3A%20%5B%22Python%22%2C%20%22SQL%22%2C%20%22Scikit-Learn%22%2C%20%22Pandas%20/%20NumPy%22%2C%20%22TensorFlow%22%2C%20%22PyTorch%22%2C%20%22Git%22%5D%2C%20%22datasets%22%3A%20%5B%7B%22label%22%3A%20%22Proficiency%22%2C%20%22data%22%3A%20%5B90%2C%2080%2C%2085%2C%2088%2C%2075%2C%2075%2C%2080%5D%2C%20%22backgroundColor%22%3A%20%22%232563eb%22%7D%5D%7D%2C%20%22options%22%3A%20%7B%22title%22%3A%20%7B%22display%22%3A%20true%2C%20%22text%22%3A%20%22Technical%20Skill%20Proficiency%20%28%25%29%22%7D%2C%20%22legend%22%3A%20%7B%22display%22%3A%20false%7D%2C%20%22scales%22%3A%20%7B%22xAxes%22%3A%20%5B%7B%22ticks%22%3A%20%7B%22beginAtZero%22%3A%20true%2C%20%22max%22%3A%20100%7D%7D%5D%7D%7D%7D&width=600&height=320&backgroundColor=white)
+
+</div>
+
+*Self-assessed proficiency based on applied project experience.*
+
 ---
 
 ## Featured Projects
 
-### Job Recommendation System
-*Intelligent job matching engine leveraging ML algorithms*
-- [Repository](https://github.com/Fahadqureshi0/Job-Recommendation-System) | [Live Demo](https://job-recommendation-system-p6arxjfvnvzxuhca2eues7.streamlit.app/)
+| Project | Description | Tech Stack | Links |
+|---|---|---|---|
+| **Job Recommendation System** | Intelligent job matching engine leveraging ML algorithms to recommend relevant listings based on user profiles | Python, Scikit-Learn, Streamlit | [Repo](https://github.com/Fahadqureshi0/Job-Recommendation-System) · [Demo](https://job-recommendation-system-p6arxjfvnvzxuhca2eues7.streamlit.app/) |
+| **AI Customer Support Intent Classifier** | NLP-based system for automatic query classification and intelligent routing of customer support tickets | Python, NLP, Streamlit | [Repo](https://github.com/Fahadqureshi0/AI-Customer-Support-Intent-Classifier) · [Demo](https://ai-customer-support-intent-classifier-etcm8es7qjalwytm7yx494.streamlit.app/) |
+| **Multiple Disease Prediction System** | Web application for predictive healthcare diagnostics across multiple disease models | Python, Scikit-Learn, Streamlit | [Repo](https://github.com/Fahadqureshi0/Multiple-Disease-Prediction-System) · [Demo](https://multiple-disease-prediction-system-czc8m4xzgnqgxczmgi6nqe.streamlit.app/) |
+| **Titanic Survival Prediction** | Binary classification model with comprehensive feature engineering and model tuning | Python, Pandas, Scikit-Learn | [Repo](https://github.com/Fahadqureshi0/Titanic-Survival-) · [Demo](https://titanic-survival-preditction-systemtitanic-surviva-3xwv0d.streamlit.app/) |
+| **Credit Card Fraud Detection** | Advanced anomaly detection on highly imbalanced financial transaction datasets | Python, Scikit-Learn, Imbalanced-learn | [Repo](https://github.com/Fahadqureshi0/Credit-Fraud-Detection) · [Notebook](https://github.com/Fahadqureshi0/Credit-Fraud-Detection/blob/main/Credit_Card_Fraud_Detection.ipynb) |
 
-### AI Customer Support Intent Classifier
-*NLP-based system for automatic query classification and intelligent routing*
-- [Repository](https://github.com/Fahadqureshi0/AI-Customer-Support-Intent-Classifier) | [Live Demo](https://ai-customer-support-intent-classifier-etcm8es7qjalwytm7yx494.streamlit.app/)
+### Project Domain Distribution
 
-### Multiple Disease Prediction System
-*Web application for predictive healthcare diagnostics*
-- [Repository](https://github.com/Fahadqureshi0/Multiple-Disease-Prediction-System) | [Live Demo](https://multiple-disease-prediction-system-czc8m4xzgnqgxczmgi6nqe.streamlit.app/)
+<div align="center">
 
-### Titanic Survival Prediction
-*Binary classification model with comprehensive feature engineering*
-- [Repository](https://github.com/Fahadqureshi0/Titanic-Survival-) | [Live Demo](https://titanic-survival-preditction-systemtitanic-surviva-3xwv0d.streamlit.app/)
+![Project Domain Distribution](https://quickchart.io/chart?c=%7B%22type%22%3A%20%22doughnut%22%2C%20%22data%22%3A%20%7B%22labels%22%3A%20%5B%22Predictive%20Analytics%22%2C%20%22NLP%22%2C%20%22Computer%20Vision%20/%20Healthcare%20AI%22%2C%20%22Recommendation%20Systems%22%2C%20%22Anomaly%20Detection%22%5D%2C%20%22datasets%22%3A%20%5B%7B%22data%22%3A%20%5B30%2C%2020%2C%2020%2C%2015%2C%2015%5D%2C%20%22backgroundColor%22%3A%20%5B%22%232563eb%22%2C%20%22%237c3aed%22%2C%20%22%23059669%22%2C%20%22%23d97706%22%2C%20%22%23dc2626%22%5D%7D%5D%7D%2C%20%22options%22%3A%20%7B%22title%22%3A%20%7B%22display%22%3A%20true%2C%20%22text%22%3A%20%22Project%20Domain%20Distribution%22%7D%2C%20%22legend%22%3A%20%7B%22position%22%3A%20%22right%22%7D%7D%7D&width=600&height=320&backgroundColor=white)
 
-### Credit Card Fraud Detection
-*Advanced anomaly detection on imbalanced financial datasets*
-- [Repository](https://github.com/Fahadqureshi0/Credit-Fraud-Detection) | [Notebook](https://github.com/Fahadqureshi0/Credit-Fraud-Detection/blob/main/Credit_Card_Fraud_Detection.ipynb)
+</div>
 
 ---
 
@@ -75,9 +81,10 @@ Core ML → Advanced Algorithms → Deep Learning → MLOps → Production Syste
 ```
 
 **Certifications in Progress**
-- ✓ Kaggle - Intro to Machine Learning
-- ✓ Kaggle - Intermediate Machine Learning
-- ✓ Kaggle - Deep Learning
+
+- [x] Kaggle — Intro to Machine Learning
+- [x] Kaggle — Intermediate Machine Learning
+- [x] Kaggle — Deep Learning
 
 ---
 
@@ -99,6 +106,8 @@ Core ML → Advanced Algorithms → Deep Learning → MLOps → Production Syste
 
 Open to discussing ML projects, code architecture, and technical opportunities.
 
-- **LinkedIn:** [fahad-qureshi-aa8a8727b](https://www.linkedin.com/in/fahad-qureshi-aa8a8727b/)
-- **Email:** fahadqureshi.dev@gmail.com
-- **GitHub:** [Fahadqureshi0](https://github.com/Fahadqureshi0)
+| | |
+|---|---|
+| **LinkedIn** | [fahad-qureshi-aa8a8727b](https://www.linkedin.com/in/fahad-qureshi-aa8a8727b/) |
+| **Email** | fahadqureshi.dev@gmail.com |
+| **GitHub** | [Fahadqureshi0](https://github.com/Fahadqureshi0) |
