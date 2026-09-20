@@ -4,9 +4,9 @@
 
 # Fahad Qureshi
 
-### Machine Learning Engineer | Python Developer | AI Engineer
+### Machine Learning Engineer | Python Developer
 
-*Turning raw data into deployed intelligence • NLP • Recommenders • Fraud & Churn Analytics*
+*Building practical ML projects in NLP, recommendation systems, and predictive analytics*
 
 <br>
 
@@ -38,13 +38,14 @@
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="TensorFlow" /><br>TensorFlow</td>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=pytorch" width="48" height="48" alt="PyTorch" /><br>PyTorch</td>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=sklearn" width="48" height="48" alt="Scikit-Learn" /><br>Scikit-Learn</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=pandas" width="48" height="48" alt="Pandas" /><br>Pandas</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=numpy" width="48" height="48" alt="NumPy" /><br>NumPy</td>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" alt="FastAPI" /><br>FastAPI</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" /><br>Docker</td>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" /><br>MySQL</td>
   </tr>
 </table>
 
+![Pandas](https://img.shields.io/badge/Pandas-E70488?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-4DABCF?style=flat&logo=numpy&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=plotly&logoColor=white)
@@ -57,24 +58,24 @@
 
 ---
 
-## 🚀 What I'm Building
+## 🚀 Recent Work
 
 <div align="center">
 
 <table>
   <tr>
     <td align="center" width="50%">
-      <b>🎯 AI Customer Support Intent Classifier</b><br><br>
-      <code>NLP → Ticket Routing</code><br><br>
-      Classifies customer queries into intents<br>
-      and routes them automatically<br><br>
+      <b>🎯 Customer Support Intent Classifier</b><br><br>
+      <code>NLP • Text Classification</code><br><br>
+      Classifies customer queries by intent<br>
+      to support ticket routing<br><br>
       <a href="https://ai-customer-support-intent-classifier-etcm8es7qjalwytm7yx494.streamlit.app/">Live Demo</a>
     </td>
     <td align="center" width="50%">
       <b>🔌 Customer Churn Prediction APIs</b><br><br>
-      <code>ML Model → REST API</code><br><br>
-      Predicts customer churn and serves<br>
-      predictions through an API<br><br>
+      <code>Machine Learning • FastAPI</code><br><br>
+      Churn prediction model served<br>
+      through an API<br><br>
       <a href="https://github.com/Fahadqureshi0/Customer-Churn-Prediction-APIs">Repository</a>
     </td>
   </tr>
@@ -88,35 +89,30 @@
 
 | Project | What It Does | Tech Stack | Links |
 |---|---|---|---|
-| **🎯 AI Customer Support Intent Classifier** | NLP-based system that classifies support queries by intent for intelligent ticket routing | Python, NLP, Scikit-Learn, Streamlit | [Repo](https://github.com/Fahadqureshi0/AI-Customer-Support-Intent-Classifier) · [Demo](https://ai-customer-support-intent-classifier-etcm8es7qjalwytm7yx494.streamlit.app/) |
-| **💼 Job Recommendation System** | Job matching engine that recommends relevant listings based on a user's profile | Python, Scikit-Learn, Streamlit | [Repo](https://github.com/Fahadqureshi0/Job-Recommendation-System) · [Demo](https://job-recommendation-system-p6arxjfvnvzxuhca2eues7.streamlit.app/) |
-| **🔌 Customer Churn Prediction APIs** | End-to-end churn prediction model exposed as an API for real-time use | Python, Scikit-Learn, FastAPI | [Repo](https://github.com/Fahadqureshi0/Customer-Churn-Prediction-APIs) |
-| **💳 Credit Card Fraud Detection** | Fraud detection on highly imbalanced transaction data using resampling and proper evaluation metrics | Python, Scikit-Learn, Imbalanced-learn | [Repo](https://github.com/Fahadqureshi0/Credit-Fraud-Detection) · [Notebook](https://github.com/Fahadqureshi0/Credit-Fraud-Detection/blob/main/Credit_Card_Fraud_Detection.ipynb) |
-| **🎬 IMDB Reviews Sentiment Analysis** | Text classification of movie reviews into positive and negative sentiment | Python, NLP, Deep Learning | [Repo](https://github.com/Fahadqureshi0/IMBD-Reviews-Sentiment-Analysis) |
+| **🎯 AI Customer Support Intent Classifier** | Classifies customer support queries by intent, with a Streamlit interface to try it out | Python, NLP, Scikit-Learn, Streamlit | [Repo](https://github.com/Fahadqureshi0/AI-Customer-Support-Intent-Classifier) · [Demo](https://ai-customer-support-intent-classifier-etcm8es7qjalwytm7yx494.streamlit.app/) |
+| **💼 Job Recommendation System** | Recommends relevant job listings based on a user's skills and profile, deployed as a Streamlit app | Python, Scikit-Learn, Streamlit | [Repo](https://github.com/Fahadqureshi0/Job-Recommendation-System) · [Demo](https://job-recommendation-system-p6arxjfvnvzxuhca2eues7.streamlit.app/) |
+| **🔌 Customer Churn Prediction APIs** | Predicts which customers are likely to churn and serves the model through an API | Python, Scikit-Learn, FastAPI | [Repo](https://github.com/Fahadqureshi0/Customer-Churn-Prediction-APIs) |
+| **💳 Credit Card Fraud Detection** | Detects fraudulent transactions in a highly imbalanced dataset, handling class imbalance with resampling | Python, Scikit-Learn, Imbalanced-learn | [Repo](https://github.com/Fahadqureshi0/Credit-Fraud-Detection) · [Notebook](https://github.com/Fahadqureshi0/Credit-Fraud-Detection/blob/main/Credit_Card_Fraud_Detection.ipynb) |
+| **🎬 IMDB Reviews Sentiment Analysis** | Classifies movie reviews as positive or negative using NLP techniques | Python, NLP, Scikit-Learn | [Repo](https://github.com/Fahadqureshi0/IMBD-Reviews-Sentiment-Analysis) |
 
 ---
 
-## 📈 Project Highlights
+## 📈 Areas I Work In
 
 <div align="center">
 
-| Domain | Focus |
+| Domain | Projects |
 |:---:|:---|
-| 🗣️ **NLP** | Intent classification for support tickets, sentiment analysis of reviews |
-| 🎯 **Recommender Systems** | Profile-based job recommendations with a deployed Streamlit app |
-| 📊 **Predictive Analytics** | Customer churn prediction served through an API |
-| 🛡️ **Anomaly Detection** | Fraud detection on heavily imbalanced financial data |
-| ☁️ **Deployment** | Streamlit apps and FastAPI model serving |
+| 🗣️ **NLP** | Support ticket intent classification, movie review sentiment analysis |
+| 🎯 **Recommender Systems** | Job recommendations with a Streamlit demo |
+| 📊 **Predictive Analytics** | Customer churn prediction with an API |
+| 🛡️ **Fraud Detection** | Classification on imbalanced financial data |
 
 </div>
 
 ---
 
-## 🎓 Learning Path
-
-```
-Core ML → Advanced Algorithms → Deep Learning → MLOps → Production Systems
-```
+## 🎓 Completed Courses
 
 - [x] Kaggle — Intro to Machine Learning
 - [x] Kaggle — Intermediate Machine Learning
