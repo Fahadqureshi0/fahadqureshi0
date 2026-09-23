@@ -4,7 +4,7 @@
 
 # Fahad Qureshi
 
-### Machine Learning Engineer | Python Developer
+### Machine Learning Engineer | AI Engineer
 
 *Building practical ML projects in NLP, recommendation systems, and predictive analytics*
 
