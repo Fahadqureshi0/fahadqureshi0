@@ -14,6 +14,7 @@
 [![Email](https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fahadqureshi.dev@gmail.com)
 [![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Fahadqureshi0)
 [![Kaggle](https://img.shields.io/badge/KAGGLE-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/fahadqureshi0)
+[![Download Resume](https://img.shields.io/badge/DOWNLOAD%20RESUME-PDF-2563eb?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/Fahadqureshi0/Fahadqureshi0/raw/main/Fahad_Qureshi_Resume.pdf)
 
 </div>
 
