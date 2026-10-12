@@ -6,7 +6,7 @@
 
 ### Machine Learning Engineer | AI Engineer
 
-*Building practical ML projects in NLP, recommendation systems, and predictive analytics*
+*Building practical ML projects in NLP, RAG chatbots, recommendation systems, and predictive analytics*
 
 <br>
 
@@ -48,6 +48,9 @@
 ![Pandas](https://img.shields.io/badge/Pandas-E70488?style=flat&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-4DABCF?style=flat&logo=numpy&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-F55036?style=flat)
+![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=flat&logo=meta&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=plotly&logoColor=white)
 ![Imbalanced-learn](https://img.shields.io/badge/Imbalanced--learn-2563eb?style=flat)
@@ -65,21 +68,28 @@
 
 <table>
   <tr>
-    <td align="center" width="33%">
+    <td align="center" width="25%">
+      <b>🤖 HR Assistant RAG Chatbot</b><br><br>
+      <code>RAG • LangChain • Groq • FastAPI</code><br><br>
+      Answers HR policy questions only from<br>
+      company documents, with cited sources<br><br>
+      <a href="https://github.com/Fahadqureshi0/HR-Assistant-RAG-Chatbot">Repository</a>
+    </td>
+    <td align="center" width="25%">
       <b>🎯 Customer Support Intent Classifier</b><br><br>
       <code>NLP • Text Classification</code><br><br>
       Classifies customer queries by intent<br>
       to support ticket routing<br><br>
       <a href="https://ai-customer-support-intent-classifier-etcm8es7qjalwytm7yx494.streamlit.app/">Live Demo</a>
     </td>
-    <td align="center" width="33%">
+    <td align="center" width="25%">
       <b>🔌 Customer Churn Prediction APIs</b><br><br>
       <code>Machine Learning • FastAPI</code><br><br>
       Churn prediction model served<br>
       through an API<br><br>
       <a href="https://github.com/Fahadqureshi0/Customer-Churn-Prediction-APIs">Repository</a>
     </td>
-    <td align="center" width="33%">
+    <td align="center" width="25%">
       <b>💬 Customer Reviews Sentiment Analysis</b><br><br>
       <code>NLP • LSTM • FastAPI • Streamlit</code><br><br>
       LSTM model predicting review sentiment,<br>
@@ -97,6 +107,7 @@
 
 | Project | What It Does | Tech Stack | Links |
 |---|---|---|---|
+| **🤖 HR Assistant RAG Chatbot** | RAG chatbot that answers employees' HR policy questions only from retrieved policy documents, shows the source of every answer, supports country and policy-type filters and follow-up questions, and reports unanswered questions to HR | Python, LangChain, Groq, FAISS, HuggingFace Embeddings, FastAPI | [Repo](https://github.com/Fahadqureshi0/HR-Assistant-RAG-Chatbot) |
 | **🎯 AI Customer Support Intent Classifier** | Classifies customer support queries by intent, with a Streamlit interface to try it out | Python, NLP, Scikit-Learn, Streamlit | [Repo](https://github.com/Fahadqureshi0/AI-Customer-Support-Intent-Classifier) · [Demo](https://ai-customer-support-intent-classifier-etcm8es7qjalwytm7yx494.streamlit.app/) |
 | **💼 Job Recommendation System** | Recommends relevant job listings based on a user's skills and profile, deployed as a Streamlit app | Python, Scikit-Learn, Streamlit | [Repo](https://github.com/Fahadqureshi0/Job-Recommendation-System) · [Demo](https://job-recommendation-system-p6arxjfvnvzxuhca2eues7.streamlit.app/) |
 | **🔌 Customer Churn Prediction APIs** | Predicts which customers are likely to churn and serves the model through an API | Python, Scikit-Learn, FastAPI | [Repo](https://github.com/Fahadqureshi0/Customer-Churn-Prediction-APIs) |
@@ -113,6 +124,7 @@
 | Domain | Projects |
 |:---:|:---|
 | 🗣️ **NLP** | Support ticket intent classification, movie review sentiment analysis, customer review sentiment analysis |
+| 🤖 **RAG & Chatbots** | HR policy assistant with grounded answers, source citations, and unanswered-question reports |
 | 🎯 **Recommender Systems** | Job recommendations with a Streamlit demo |
 | 📊 **Predictive Analytics** | Customer churn prediction with an API |
 | 🛡️ **Fraud Detection** | Classification on imbalanced financial data |
