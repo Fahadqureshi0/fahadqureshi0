@@ -6,7 +6,7 @@
 
 ### Machine Learning Engineer | AI Engineer
 
-*Building practical ML projects in NLP, RAG chatbots, recommendation systems, and predictive analytics*
+*Building practical ML projects in NLP, RAG chatbots, AI agents, recommendation systems, and predictive analytics*
 
 <br>
 
@@ -42,6 +42,7 @@
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" alt="FastAPI" /><br>FastAPI</td>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" /><br>Docker</td>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" /><br>MySQL</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" /><br>React</td>
   </tr>
 </table>
 
@@ -51,6 +52,9 @@
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
 ![Groq](https://img.shields.io/badge/Groq-F55036?style=flat)
 ![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=flat&logo=meta&logoColor=white)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat&logo=pydantic&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=plotly&logoColor=white)
 ![Imbalanced-learn](https://img.shields.io/badge/Imbalanced--learn-2563eb?style=flat)
@@ -68,28 +72,35 @@
 
 <table>
   <tr>
-    <td align="center" width="25%">
+    <td align="center" width="20%">
+      <b>🕵️ Company Research Agent</b><br><br>
+      <code>AI Agent • LangChain • Groq • FastAPI • React</code><br><br>
+      Tool-calling agent that researches any company<br>
+      and generates a downloadable PDF report<br><br>
+      <a href="https://github.com/Fahadqureshi0/Company-Research-Agent">Repository</a> · <a href="https://company-research-agent-sand.vercel.app/">Live Demo</a>
+    </td>
+    <td align="center" width="20%">
       <b>🤖 HR Assistant RAG Chatbot</b><br><br>
       <code>RAG • LangChain • Groq • FastAPI</code><br><br>
       Answers HR policy questions only from<br>
       company documents, with cited sources<br><br>
       <a href="https://github.com/Fahadqureshi0/HR-Assistant-RAG-Chatbot">Repository</a>
     </td>
-    <td align="center" width="25%">
+    <td align="center" width="20%">
       <b>🎯 Customer Support Intent Classifier</b><br><br>
       <code>NLP • Text Classification</code><br><br>
       Classifies customer queries by intent<br>
       to support ticket routing<br><br>
       <a href="https://ai-customer-support-intent-classifier-etcm8es7qjalwytm7yx494.streamlit.app/">Live Demo</a>
     </td>
-    <td align="center" width="25%">
+    <td align="center" width="20%">
       <b>🔌 Customer Churn Prediction APIs</b><br><br>
       <code>Machine Learning • FastAPI</code><br><br>
       Churn prediction model served<br>
       through an API<br><br>
       <a href="https://github.com/Fahadqureshi0/Customer-Churn-Prediction-APIs">Repository</a>
     </td>
-    <td align="center" width="25%">
+    <td align="center" width="20%">
       <b>💬 Customer Reviews Sentiment Analysis</b><br><br>
       <code>NLP • LSTM • FastAPI • Streamlit</code><br><br>
       LSTM model predicting review sentiment,<br>
@@ -107,6 +118,7 @@
 
 | Project | What It Does | Tech Stack | Links |
 |---|---|---|---|
+| **🕵️ Company Research Agent** | Tool-calling AI agent that searches the web, reads webpages, and pulls market data to research any company, then generates a downloadable PDF report covering its business model, leadership, competitors, valuation, news, and risks. FastAPI backend runs research as background jobs with status polling and cancel endpoints, and cited source URLs are verified against tool results to prevent invented links. React frontend shows a live agent activity feed, light/dark mode, and saved report history | Python, LangChain, Groq, Tavily, yfinance, FastAPI, Pydantic, ReportLab, React, Vite | [Repo](https://github.com/Fahadqureshi0/Company-Research-Agent) · [Demo](https://company-research-agent-sand.vercel.app/) |
 | **🤖 HR Assistant RAG Chatbot** | RAG chatbot that answers employees' HR policy questions only from retrieved policy documents, shows the source of every answer, supports country and policy-type filters and follow-up questions, and reports unanswered questions to HR | Python, LangChain, Groq, FAISS, HuggingFace Embeddings, FastAPI | [Repo](https://github.com/Fahadqureshi0/HR-Assistant-RAG-Chatbot) |
 | **🎯 AI Customer Support Intent Classifier** | Classifies customer support queries by intent, with a Streamlit interface to try it out | Python, NLP, Scikit-Learn, Streamlit | [Repo](https://github.com/Fahadqureshi0/AI-Customer-Support-Intent-Classifier) · [Demo](https://ai-customer-support-intent-classifier-etcm8es7qjalwytm7yx494.streamlit.app/) |
 | **💼 Job Recommendation System** | Recommends relevant job listings based on a user's skills and profile, deployed as a Streamlit app | Python, Scikit-Learn, Streamlit | [Repo](https://github.com/Fahadqureshi0/Job-Recommendation-System) · [Demo](https://job-recommendation-system-p6arxjfvnvzxuhca2eues7.streamlit.app/) |
@@ -123,6 +135,7 @@
 
 | Domain | Projects |
 |:---:|:---|
+| 🕵️ **AI Agents** | Company Research Agent: tool calling, web search, structured reports, PDF generation |
 | 🗣️ **NLP** | Support ticket intent classification, movie review sentiment analysis, customer review sentiment analysis |
 | 🤖 **RAG & Chatbots** | HR policy assistant with grounded answers, source citations, and unanswered-question reports |
 | 🎯 **Recommender Systems** | Job recommendations with a Streamlit demo |
@@ -138,6 +151,7 @@
 - [x] Kaggle — Intro to Machine Learning
 - [x] Kaggle — Intermediate Machine Learning
 - [x] Kaggle — Deep Learning
+- [x] Introduction to LangChain
 
 ---
 
